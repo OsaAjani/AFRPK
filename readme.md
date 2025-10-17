@@ -1,4 +1,4 @@
-# 🗝️ Ajani’s Free Reproductible Pick Kit (AFRPK)
+# 🗝️ Ajani’s Free Reproductible Picks Kit (AFRPK)
 
 A catalog of reproducible pick geometries for research, prototyping, CTF training and professional use.  
 Source files are provided as **FreeCAD** documents; SVG exports and preview images are produced from those sources.
